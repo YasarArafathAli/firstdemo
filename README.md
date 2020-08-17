@@ -1,3 +1,2 @@
 # firstdemo
-a first demo repository.
-just a trail to learn GitHub
+a first demo repository to get started with github.
